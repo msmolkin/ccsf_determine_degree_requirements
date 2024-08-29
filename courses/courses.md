@@ -1,0 +1,91 @@
+# Courses
+
+- CDEV  11B, Pediatric Preventive Health Ed
+- CDEV  11C, First Aid Care for Children
+- CDEV  41B, Issues in CDEV - Teacher Seminar
+- CDEV  41C, Issues in CDEV – Leadership Seminar
+- CDEV  41D, The Child Development Permit and Professional Growth  Advising
+- CDEV  41E, Starting A Large Family Child Care or Center
+- CDEV  41F, Serving Children with Special Needs in Family Child  Care
+- CDEV  41G, Communicating with Families in Family Child Care
+- CDEV  41H, Family Child Care Environment
+- CDEV  41I, Advanced Business Practices in Family Child Care
+- CDEV  41J, Development of Infancy in Family Child Care
+- CDEV  41K, Infant/Toddler Curriculum in Family Child Care
+- CDEV  41L, Advocacy and Professional Standards in ECE
+- CDEV  41M, Substitute Teaching in ECE Programs
+- CDEV  41N, Music and Movement in Family Child Care
+- CDEV  41O, Outdoor Learning in Family Child Care
+- CDEV  41P, Mixed Ages in FamiIy Child Care
+- CDEV  41S, Learning Activities in Family Child Care
+- CDEV  41T, Early Autism Spectrum Disorders
+- CDEV  41U, Dual Language Learning in Early Childhood
+- CDEV  41V, Exploring Math in Family Child Care
+- CDEV  41W, Exploring Science in Family Child Care
+- CDEV  44, Family Child Care Environmental Rating Scale
+- CDEV  45, ITERS and ECERS Rating ScaIe
+- CDEV  46, ECE Teacher-Child Interactions Using the Classroom  Assessment Scoring System (CLASS)
+- CDEV  53, Child Growth and Development
+- CDEV  61, Infant/Toddler Growth and Development
+- CDEV  62, Infant/Toddler Care in Group Settings
+- CDEV  64, Introduction to Stress Reduction and Coping in Early  Childhood and Elementary School Programs
+- CDEV  65, Orientation to ECE Principles and Practice
+- CDEV  66, Introduction to Early Childhood Curriculum
+- CDEV  67, Child, Family, and Community
+- CDEV  68, Interactions with Children
+- CDEV  71, Elementary Supervised Field Experience
+- CDEV  72, Supervised Field Experience in Early Childhood  Education
+- CDEV  73, Observing and Assessing Young Children
+- CDEV  74, Children with Special Needs
+- CDEV  75, High School Supervised Field Experience
+- CDEV  76, Supporting LGBT Families in Educational Settings
+- CDEV  78, Supervised Field Experience in Community Youth Organizations
+- CDEV  79, Youth Program Development
+- CDEV  81, Early Literacy Development--Preschool
+- CDEV  85, Relationship-based Infant/Toddler Care
+- CDEV  87, Promoting Social and Emotional Competence in Young  Children
+- CDEV  88, Infant Toddler Development and Relationship-based Care
+- CDEV  89, Early Childhood Administration Practicum
+- CDEV  90, Early Childhood Administration I
+- CDEV  91, Early Childhood Administration II
+- CDEV  92, Health, Safety and Nutrition in Early Childhood  Programs
+- CDEV  93, Cultural Diversity in Early Childhood Education
+- CDEV  95, School-Age Child Care Curriculum
+- CDEV  96, Understanding Children with Challenging Behaviors
+- CDEV  97, School Age Growth & Development
+- CDEV  98, Sensory Motor Development and Activities
+- CDEV  99, Sensory Processing Disorder in Children
+- CDEV 100, Violence and Its Impact on Children and Their Families
+- CDEV 101, Introduction to Violence Intervention
+- CDEV 105, Adult Supervision and Mentoring in Early Care and  Education
+- CDEV 106, Exploring Science in Early Childhood Education
+- CDEV 107, Introduction to Child Nutrition
+- CDEV 108, Communicating with Families
+- CDEV 114, Work Experience in Child Development
+- CDEV 120, Special Education TK-12
+- CDEV 121, Children with ADHD
+- CDEV 122, Social Emotional Differences K-12
+- CDEV 123, Learning Disabilities
+- CDEV 124, Individualized Education Programs
+- CDEV 125, Children's Emotional Development
+- CDEV 150, Orientation to TK-12 Education
+- CDEV 8000, Careers in Teaching in CA
+- CDEV 8002, Parents and Infants
+- CDEV 8003, Infant Development
+- CDEV 8004, Postpartum Doula Training
+- CDEV 8100, Child Observation
+- CDEV 8101, The Child Development Lab School
+- CDEV 8104, Parenting Participating Class
+- CDEV 8117, Positive Parenting
+- CDEV 8202, Foster Parenting and Resource Families
+- CDEV 8203, Overview of Growth and Development: Birth through Age  10 with an Emphasis on Out-of-Home Placement
+- CDEV 8204, Overview of Growth and Development: Ages 10-18 with an  Emphasis on Out-of-Home Placement
+- CDEV 8205, Foster/Resource Families: Working with Agencies and  Community Resources
+- CDEV 8206, Parenting in the Business Community
+- CDEV 8213, Working with Youth in Group Settings
+- CDEV 8506, Preparing Youth for Independent Living/Skills for  Resource Families
+- CDEV 8507, Becoming a Resource Family
+- CDEV 8508, Parenting Basics: Birth to Two Years
+- CDEV 8509, Parenting Basics 3-5 years
+- CDEV 8510, Parenting Basics 5-10 years
+- CDEV 8511, Parenting Basics 10-14 years
